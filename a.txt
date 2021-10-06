@@ -1,0 +1,7 @@
+class
+{
+psvm()
+{
+this is sample java code;
+}
+}
